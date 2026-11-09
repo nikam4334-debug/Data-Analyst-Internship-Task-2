@@ -1,0 +1,40 @@
+
+SUPERSTORE SALES ANALYSIS
+DATA ANALYST INTERNSHIP - TASK 2
+
+PROJECT OVERVIEW
+This project analyzes Superstore sales data
+using Python, Pandas, Matplotlib and Seaborn.
+
+DATASET OVERVIEW
+Total Records: 9994
+Total Columns: 10
+
+BUSINESS PERFORMANCE
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Total Quantity: 37873
+Profit Margin: 12.47%
+
+KEY BUSINESS FINDINGS
+
+1. Top Region: West
+2. Top Revenue Category: Technology
+3. Most Profitable Subcategory: Copiers
+4. Lowest Profit Subcategory: Tables
+5. Leading Customer Segment: Consumer
+6. Best Sales Month: 2017-11
+7. Lowest Sales Month: 2014-02
+
+BUSINESS RECOMMENDATIONS
+
+1. Study successful strategies in the West region.
+2. Evaluate opportunities in Technology products.
+3. Review pricing and costs for Tables.
+4. Strengthen Consumer customer retention.
+5. Plan inventory around high-sales periods.
+
+CONCLUSION
+The analysis provides insights into sales,
+profitability, regional performance and customer
+segments to support better business decisions.
